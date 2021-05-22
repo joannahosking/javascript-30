@@ -9,23 +9,18 @@ View the original course at [https://JavaScript30.com](https://JavaScript30.com)
 
 [Day 3](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2003/index.html)
 
-[Day 4](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2004/index.html)
-
 [Day 5](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2005/index.html)
 
 [Day 6](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2006/index.html)
 
-[Day 7](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2007/index.html)
-
 [Day 8](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2008/index.html)
-
-[Day 9](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2009/index.html)
 
 [Day 10](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2010/index.html)
 
 [Day 11](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2011/index.html)
 
 [Day 12](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2012/index.html)
+* ⬆⬆⬇⬇⬅➡⬅➡🅱🅰
 
 [Day 13](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2013/index.html)
 
