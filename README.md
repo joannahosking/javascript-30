@@ -28,4 +28,4 @@ View the original course at [https://JavaScript30.com](https://JavaScript30.com)
 [Day 29](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2029/index.html)  
 [Day 30](https://htmlpreview.github.io/?https://github.com/joannahosking/javascript-30/blob/master/Day%2030/index.html)  
 
-* ⬆⬆⬇⬇⬅➡⬅➡🅱🅰
+\* ⬆⬆⬇⬇⬅➡⬅➡🅱🅰
